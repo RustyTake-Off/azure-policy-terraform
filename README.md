@@ -1,6 +1,6 @@
 # azure-policy-terraform
 
-## [Mini Project](https://github.com/RustyTake-Off/projects)
+## [Projects](https://github.com/RustyTake-Off/projects)
 
 [Mini Project] - Create azure policy initiatives with terraform which then can be assigned to resources.
 
