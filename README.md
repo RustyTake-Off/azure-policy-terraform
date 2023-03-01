@@ -1,14 +1,14 @@
 # azure-policy-terraform
-## [Mini Project](https://github.com/RustyTake-Off/projects)
 
-Create azure policy initiatives with terraform which then can be assigned to resources.
+## [Projects](https://github.com/RustyTake-Off/projects)
+
+[Mini Project] - Create azure policy initiatives with terraform which then can be assigned to resources.
 
 ## How to use
 
 Clone this repository.
 
 Modify the <b>./example/example.tfvars</b> file to your own liking.
-
 
 Open terminal in the repository location and run:
 
