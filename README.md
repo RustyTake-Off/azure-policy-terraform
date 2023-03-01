@@ -1,5 +1,7 @@
 # azure-policy-terraform
 
+Remember to look around all the folders, files and change things to your own liking.
+
 ## [Projects](https://github.com/RustyTake-Off/projects)
 
 [Mini Project] - Create azure policy initiatives with terraform which then can be assigned to resources.
