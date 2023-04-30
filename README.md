@@ -4,7 +4,7 @@ Remember to look around all the folders, files and change things to your own lik
 
 ## [Projects](https://github.com/RustyTake-Off/projects)
 
-[Project] - Create azure policy initiatives with terraform which then can be assigned to resources.
+Create azure policy initiatives with terraform which then can be assigned to resources.
 
 ## How to use
 
